@@ -1,0 +1,6 @@
+---
+stages:
+  - validate
+  - security_scan
+  - ami_validation
+  - testing
